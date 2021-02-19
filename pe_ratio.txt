@@ -1,0 +1,424 @@
+{"symbol":"Stock Symbol","pe_ratio":"","dividend":"","bonus":"","ltp":""}
+{"symbol":"NIFRA","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"374.00"}
+{"symbol":"ACLBSL","pe_ratio":"33.66","dividend":"#\r\n   ","bonus":"","ltp":"1,595."}
+{"symbol":"ADBL","pe_ratio":"21.24","dividend":"6.00\r\n","bonus":"6.00%\r","ltp":"448.00"}
+{"symbol":"AHPC","pe_ratio":"23.34","dividend":"0.37\r\n","bonus":"0.37%\r","ltp":"303.00"}
+{"symbol":"AIL","pe_ratio":"92.01","dividend":"#\r\n   ","bonus":"","ltp":"749.00"}
+{"symbol":"AKBSL","pe_ratio":"12.90","dividend":"#\r\n   ","bonus":"","ltp":"465.00"}
+{"symbol":"AKBSLP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"256.00"}
+{"symbol":"AKJCL","pe_ratio":"141.58","dividend":"#\r\n   ","bonus":"","ltp":"143.00"}
+{"symbol":"AKPL","pe_ratio":"14.37","dividend":"0.29\r\n","bonus":"0.29%\r","ltp":"331.00"}
+{"symbol":"ALBSL","pe_ratio":"27.66","dividend":"#\r\n   ","bonus":"0.79%\r","ltp":"1,450."}
+{"symbol":"ALICL","pe_ratio":"64.72","dividend":"0.21\r\n","bonus":"0.21%\r","ltp":"1,297."}
+{"symbol":"ALICLP","pe_ratio":"0.00","dividend":"1.50\r\n","bonus":"50%\r\n ","ltp":"380.00"}
+{"symbol":"AMFI","pe_ratio":"24.57","dividend":"#\r\n   ","bonus":"","ltp":"529.00"}
+{"symbol":"AMFIPO","pe_ratio":"","dividend":"","bonus":"","ltp":""}
+{"symbol":"API","pe_ratio":"18.87","dividend":"#\r\n   ","bonus":"","ltp":"280.00"}
+{"symbol":"AVU","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"58.00"}
+{"symbol":"BARUN","pe_ratio":"108.86","dividend":"0.26\r\n","bonus":"0.26%\r","ltp":"258.00"}
+{"symbol":"BBC","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"2,880."}
+{"symbol":"BFC","pe_ratio":"-6.57","dividend":"#\r\n   ","bonus":"","ltp":"159.00"}
+{"symbol":"BFCPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"101.00"}
+{"symbol":"BFLPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"199.00"}
+{"symbol":"BHBL","pe_ratio":"14.92","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"199.00"}
+{"symbol":"BHBLPO","pe_ratio":"0.00","dividend":"1.05\r\n","bonus":"05%\r\n ","ltp":"163.00"}
+{"symbol":"BNL","pe_ratio":"-145.93","dividend":"20.00\r","bonus":"20.00%","ltp":"1,830."}
+{"symbol":"BNT","pe_ratio":"248.63","dividend":"40.00\r","bonus":"40.00%","ltp":"9,080."}
+{"symbol":"BOKD2079","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"BOKL","pe_ratio":"21.13","dividend":"3.00\r\n","bonus":"3.00%\r","ltp":"310.00"}
+{"symbol":"BOKLPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"147.00"}
+{"symbol":"BPCL","pe_ratio":"43.18","dividend":"#\r\n   ","bonus":"15.00%","ltp":"405.00"}
+{"symbol":"BSBLPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"BSL","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"28.00"}
+{"symbol":"BSM","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"18.00"}
+{"symbol":"CBBL","pe_ratio":"23.19","dividend":"7.00\r\n","bonus":"7.00%\r","ltp":"1,560."}
+{"symbol":"CBBLPO","pe_ratio":"0.00","dividend":"12.70\r","bonus":"12.70%","ltp":"570.00"}
+{"symbol":"CBL","pe_ratio":"46.91","dividend":"#\r\n   ","bonus":"0.42%\r","ltp":"220.00"}
+{"symbol":"CBLPO","pe_ratio":"0.00","dividend":"0.36\r\n","bonus":"0.36%\r","ltp":"102.00"}
+{"symbol":"CCBL","pe_ratio":"24.59","dividend":"2.25\r\n","bonus":"2.25%\r","ltp":"254.00"}
+{"symbol":"CCBLPO","pe_ratio":"0.00","dividend":"0.47\r\n","bonus":"0.47%\r","ltp":"112.00"}
+{"symbol":"CEFL","pe_ratio":"-53.16","dividend":"#\r\n   ","bonus":"","ltp":"101.00"}
+{"symbol":"CEFLPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"100.00"}
+{"symbol":"CFCL","pe_ratio":"20.44","dividend":"3.00\r\n","bonus":"3.00%\r","ltp":"204.00"}
+{"symbol":"CFCLPO","pe_ratio":"0.00","dividend":"1.74\r\n","bonus":"74%\r\n ","ltp":"113.00"}
+{"symbol":"CFL","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"117.00"}
+{"symbol":"CHCL","pe_ratio":"46.08","dividend":"10.00\r","bonus":"10.00%","ltp":"576.00"}
+{"symbol":"CHL","pe_ratio":"30.02","dividend":"0.26\r\n","bonus":"0.26%\r","ltp":"193.00"}
+{"symbol":"CIT","pe_ratio":"126.44","dividend":"1.16\r\n","bonus":"16%\r\n ","ltp":"4,500."}
+{"symbol":"CIZBD86","pe_ratio":"","dividend":"","bonus":"","ltp":""}
+{"symbol":"CLBSL","pe_ratio":"45.16","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"1,059."}
+{"symbol":"CMB","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"140.00"}
+{"symbol":"CMBFLP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"22.00"}
+{"symbol":"CMF1","pe_ratio":"0.00","dividend":"15.00\r","bonus":"15.00%","ltp":"9.92"}
+{"symbol":"CMF2","pe_ratio":"0.00","dividend":"10.00\r","bonus":"10.00%","ltp":"9.97"}
+{"symbol":"CORBL","pe_ratio":"94.71","dividend":"#\r\n   ","bonus":"","ltp":"591.00"}
+{"symbol":"CORBLP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"492.00"}
+{"symbol":"CZBIL","pe_ratio":"16.99","dividend":"3.00\r\n","bonus":"3.00%\r","ltp":"303.00"}
+{"symbol":"CZBILP","pe_ratio":"0.00","dividend":"1.05\r\n","bonus":"05%\r\n ","ltp":"171.00"}
+{"symbol":"DBBL","pe_ratio":"14.91","dividend":"0.90\r\n","bonus":"0.90%\r","ltp":"147.00"}
+{"symbol":"DBBLPO","pe_ratio":"0.00","dividend":"0.41\r\n","bonus":"0.41%\r","ltp":"102.00"}
+{"symbol":"DDBL","pe_ratio":"29.96","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"1,931."}
+{"symbol":"DDBLPO","pe_ratio":"0.00","dividend":"2.63\r\n","bonus":"2.63%\r","ltp":"600.00"}
+{"symbol":"DHPL","pe_ratio":"-10.79","dividend":"#\r\n   ","bonus":"","ltp":"114.00"}
+{"symbol":"EBL","pe_ratio":"36.00","dividend":"5.53\r\n","bonus":"0.53%\r","ltp":"775.00"}
+{"symbol":"EBLCP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"675.00"}
+{"symbol":"EBLD2078","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"EBLPO","pe_ratio":"0.00","dividend":"6.50\r\n","bonus":"6.50%\r","ltp":"1,045."}
+{"symbol":"EDBL","pe_ratio":"16.41","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"402.00"}
+{"symbol":"EDBLPO","pe_ratio":"0.00","dividend":"1.36\r\n","bonus":"36%\r\n ","ltp":"194.00"}
+{"symbol":"EIC","pe_ratio":"53.36","dividend":"#\r\n   ","bonus":"","ltp":"723.00"}
+{"symbol":"EICPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"425.00"}
+{"symbol":"FBBLPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"209.00"}
+{"symbol":"FHL","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"FMDBL","pe_ratio":"56.17","dividend":"4.18\r\n","bonus":"4.18%\r","ltp":"806.00"}
+{"symbol":"FMDBLP","pe_ratio":"0.00","dividend":"0.79\r\n","bonus":"0.79%\r","ltp":"275.00"}
+{"symbol":"FOWAD","pe_ratio":"32.80","dividend":"#\r\n   ","bonus":"6.58%\r","ltp":"2,950."}
+{"symbol":"GBBL","pe_ratio":"14.76","dividend":"0.71\r\n","bonus":"0.71%\r","ltp":"316.00"}
+{"symbol":"GBBLPO","pe_ratio":"0.00","dividend":"1.05\r\n","bonus":"05%\r\n ","ltp":"197.00"}
+{"symbol":"GBD80/81","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"1,070."}
+{"symbol":"GBIME","pe_ratio":"20.61","dividend":"2.00\r\n","bonus":"2.00%\r","ltp":"441.00"}
+{"symbol":"GBIMEP","pe_ratio":"0.00","dividend":"4.00\r\n","bonus":"4.00%\r","ltp":"149.00"}
+{"symbol":"GBLBS","pe_ratio":"27.53","dividend":"#\r\n   ","bonus":"","ltp":"1,000."}
+{"symbol":"GBLBSP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"187.00"}
+{"symbol":"GDBL","error":"Server Error"}
+{"symbol":"GDBLPO","pe_ratio":"0.00","dividend":"1.21\r\n","bonus":"21%\r\n ","ltp":"122.00"}
+{"symbol":"GFCL","pe_ratio":"21.48","dividend":"3.60\r\n","bonus":"3.60%\r","ltp":"275.00"}
+{"symbol":"GFCLPO","pe_ratio":"0.00","dividend":"7.72\r\n","bonus":"7.72%\r","ltp":"110.00"}
+{"symbol":"GGBSL","pe_ratio":"70.10","dividend":"#\r\n   ","bonus":"","ltp":"830.00"}
+{"symbol":"GHL","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"129.00"}
+{"symbol":"GIC","pe_ratio":"96.15","dividend":"#\r\n   ","bonus":"","ltp":"700.00"}
+{"symbol":"GILB","pe_ratio":"26.57","dividend":"1.45\r\n","bonus":"45%\r\n ","ltp":"1,943."}
+{"symbol":"GILBPO","pe_ratio":"","dividend":"","bonus":"","ltp":""}
+{"symbol":"GIMES1","pe_ratio":"0.00","dividend":"4.00\r\n","bonus":"4.00%\r","ltp":"13.79"}
+{"symbol":"GLBSL","pe_ratio":"42.80","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"1,426."}
+{"symbol":"GLICL","pe_ratio":"94.13","dividend":"0.42\r\n","bonus":"0.42%\r","ltp":"802.00"}
+{"symbol":"GLICLP","pe_ratio":"0.00","dividend":"0.52\r\n","bonus":"0.52%\r","ltp":"520.00"}
+{"symbol":"GMFBS","pe_ratio":"35.71","dividend":"0.79\r\n","bonus":"0.79%\r","ltp":"1,658."}
+{"symbol":"GMFIL","pe_ratio":"27.99","dividend":"3.40\r\n","bonus":"3.40%\r","ltp":"225.00"}
+{"symbol":"GMFILP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"125.00"}
+{"symbol":"GRDBL","pe_ratio":"146.61","dividend":"#\r\n   ","bonus":"","ltp":"173.00"}
+{"symbol":"GRDBLP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"100.00"}
+{"symbol":"GRU","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"38.00"}
+{"symbol":"GUFL","pe_ratio":"11.08","dividend":"#\r\n   ","bonus":"","ltp":"435.00"}
+{"symbol":"GUFLPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"176.00"}
+{"symbol":"HAMRO","pe_ratio":"14.06","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"135.00"}
+{"symbol":"HAMROP","pe_ratio":"0.00","dividend":"0.79\r\n","bonus":"0.79%\r","ltp":"108.00"}
+{"symbol":"HATH","pe_ratio":"14.01","dividend":"#\r\n   ","bonus":"","ltp":"116.00"}
+{"symbol":"HATHPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"100.00"}
+{"symbol":"HBL","pe_ratio":"44.64","dividend":"6.00\r\n","bonus":"6.00%\r","ltp":"546.00"}
+{"symbol":"HBLD83","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"1,040."}
+{"symbol":"HBLPO","pe_ratio":"0.00","dividend":"7.10\r\n","bonus":"7.10%\r","ltp":"300.00"}
+{"symbol":"HBT","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"4.00"}
+{"symbol":"HDHPC","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"134.00"}
+{"symbol":"HDL","pe_ratio":"47.46","dividend":"50.00\r","bonus":"50.00%","ltp":"4,350."}
+{"symbol":"HFL","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"18.00"}
+{"symbol":"HGI","pe_ratio":"61.14","dividend":"#\r\n   ","bonus":"3.75%\r","ltp":"700.00"}
+{"symbol":"HGIPO","pe_ratio":"0.00","dividend":"1.50\r\n","bonus":"50%\r\n ","ltp":"225.00"}
+{"symbol":"HIDCL","pe_ratio":"63.97","dividend":"12.00\r","bonus":"12.00%","ltp":"332.00"}
+{"symbol":"HPPL","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"335.00"}
+{"symbol":"HURJA","pe_ratio":"-4,083.33","dividend":"#\r\n   ","bonus":"","ltp":"245.00"}
+{"symbol":"ICFC","pe_ratio":"12.95","dividend":"4.50\r\n","bonus":"4.50%\r","ltp":"310.00"}
+{"symbol":"ICFCPO","pe_ratio":"0.00","dividend":"0.74\r\n","bonus":"0.74%\r","ltp":"160.00"}
+{"symbol":"IGI","pe_ratio":"39.88","dividend":"#\r\n   ","bonus":"","ltp":"1,108."}
+{"symbol":"IGIPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"304.00"}
+{"symbol":"ILBS","pe_ratio":"30.16","dividend":"0.75\r\n","bonus":"0.75%\r","ltp":"1,497."}
+{"symbol":"ILFCMP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"JBBL","pe_ratio":"14.84","dividend":"#\r\n   ","bonus":"8.40%\r","ltp":"236.00"}
+{"symbol":"JBBLPO","pe_ratio":"0.00","dividend":"5.60\r\n","bonus":"5.60%\r","ltp":"111.00"}
+{"symbol":"JBNL","pe_ratio":"11.67","dividend":"5.42\r\n","bonus":"5.42%\r","ltp":"214.00"}
+{"symbol":"JBNLPO","pe_ratio":"0.00","dividend":"5.42\r\n","bonus":"5.42%\r","ltp":"100.00"}
+{"symbol":"JEFL","pe_ratio":"67.91","dividend":"0.50\r\n","bonus":"0.50%\r","ltp":"146.00"}
+{"symbol":"JEFLPO","pe_ratio":"0.00","dividend":"0.88\r\n","bonus":"0.88%\r","ltp":"130.00"}
+{"symbol":"JFL","pe_ratio":"-24.52","dividend":"1.16\r\n","bonus":"16%\r\n ","ltp":"270.00"}
+{"symbol":"JFLPO","pe_ratio":"0.00","dividend":"7.00\r\n","bonus":"7.00%\r","ltp":"165.00"}
+{"symbol":"JOSHI","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"119.00"}
+{"symbol":"JSLBB","pe_ratio":"55.20","dividend":"1.05\r\n","bonus":"05%\r\n ","ltp":"3,826."}
+{"symbol":"JSLBBP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"JSM","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"27.00"}
+{"symbol":"KADBL","pe_ratio":"27.58","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"283.00"}
+{"symbol":"KADBLP","pe_ratio":"0.00","dividend":"1.31\r\n","bonus":"31%\r\n ","ltp":"113.00"}
+{"symbol":"KBL","pe_ratio":"17.86","dividend":"#\r\n   ","bonus":"3.15%\r","ltp":"313.00"}
+{"symbol":"KBLD86","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"1,100."}
+{"symbol":"KBLPO","pe_ratio":"0.00","dividend":"0.58\r\n","bonus":"0.58%\r","ltp":"110.00"}
+{"symbol":"KEBL","pe_ratio":"24.62","dividend":"#\r\n   ","bonus":"","ltp":"180.00"}
+{"symbol":"KEBLPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"KKHC","pe_ratio":"-4.00","dividend":"#\r\n   ","bonus":"","ltp":"115.00"}
+{"symbol":"KLBSL","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"1,520."}
+{"symbol":"KLBSLP","pe_ratio":"","dividend":"","bonus":"","ltp":""}
+{"symbol":"KMCDB","pe_ratio":"61.49","dividend":"0.63\r\n","bonus":"0.63%\r","ltp":"1,343."}
+{"symbol":"KMCDBP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"438.00"}
+{"symbol":"KNBL","pe_ratio":"17.16","dividend":"6.50\r\n","bonus":"6.50%\r","ltp":"196.00"}
+{"symbol":"KNBLPO","pe_ratio":"0.00","dividend":"1.31\r\n","bonus":"31%\r\n ","ltp":"110.00"}
+{"symbol":"KPCL","pe_ratio":"14.27","dividend":"#\r\n   ","bonus":"","ltp":"255.00"}
+{"symbol":"KRBL","pe_ratio":"22.74","dividend":"5.00\r\n","bonus":"5.00%\r","ltp":"166.00"}
+{"symbol":"KRBLPO","pe_ratio":"0.00","dividend":"5.00\r\n","bonus":"5.00%\r","ltp":"101.00"}
+{"symbol":"KSBBL","pe_ratio":"10.67","dividend":"0.23\r\n","bonus":"0.23%\r","ltp":"314.00"}
+{"symbol":"KSBBLP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"123.00"}
+{"symbol":"LBBL","pe_ratio":"14.48","dividend":"3.00\r\n","bonus":"3.00%\r","ltp":"261.00"}
+{"symbol":"LBBLPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"118.00"}
+{"symbol":"LBL","pe_ratio":"18.95","dividend":"#\r\n   ","bonus":"2.50%\r","ltp":"286.00"}
+{"symbol":"LBLPO","pe_ratio":"0.00","dividend":"1.05\r\n","bonus":"05%\r\n ","ltp":"137.00"}
+{"symbol":"LEC","pe_ratio":"-61.18","dividend":"#\r\n   ","bonus":"","ltp":"238.00"}
+{"symbol":"LEMF","pe_ratio":"0.00","dividend":"4.25\r\n","bonus":"4.25%\r","ltp":"10.22"}
+{"symbol":"LFC","pe_ratio":"7.15","dividend":"10.00\r","bonus":"10.00%","ltp":"126.00"}
+{"symbol":"LFCPO","pe_ratio":"0.00","dividend":"10.00\r","bonus":"10.00%","ltp":"103.00"}
+{"symbol":"LGIL","pe_ratio":"42.95","dividend":"#\r\n   ","bonus":"0.41%\r","ltp":"771.00"}
+{"symbol":"LGILPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"331.00"}
+{"symbol":"LICN","pe_ratio":"221.11","dividend":"#\r\n   ","bonus":"0.53%\r","ltp":"2,545."}
+{"symbol":"LICNPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"LLBS","pe_ratio":"27.74","dividend":"#\r\n   ","bonus":"8.16%\r","ltp":"1,567."}
+{"symbol":"LLBSPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"LUK","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"9.71"}
+{"symbol":"LVF1","pe_ratio":"0.00","dividend":"15.00\r","bonus":"15.00%","ltp":"9.64"}
+{"symbol":"MBL","pe_ratio":"16.98","dividend":"3.37\r\n","bonus":"3.37%\r","ltp":"301.00"}
+{"symbol":"MBLPO","pe_ratio":"0.00","dividend":"0.84\r\n","bonus":"0.84%\r","ltp":"148.00"}
+{"symbol":"MDB","pe_ratio":"19.82","dividend":"0.79\r\n","bonus":"0.79%\r","ltp":"347.00"}
+{"symbol":"MDBLPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"104.00"}
+{"symbol":"MDBPO","pe_ratio":"0.00","dividend":"1.58\r\n","bonus":"58%\r\n ","ltp":"182.00"}
+{"symbol":"MEGA","pe_ratio":"16.63","dividend":"3.05\r\n","bonus":"3.05%\r","ltp":"296.00"}
+{"symbol":"MEGAPO","pe_ratio":"0.00","dividend":"0.53\r\n","bonus":"0.53%\r","ltp":"126.00"}
+{"symbol":"MEN","pe_ratio":"117.21","dividend":"#\r\n   ","bonus":"","ltp":"613.00"}
+{"symbol":"MERO","pe_ratio":"37.41","dividend":"#\r\n   ","bonus":"0.89%\r","ltp":"1,053."}
+{"symbol":"MEROPO","pe_ratio":"","dividend":"","bonus":"","ltp":""}
+{"symbol":"MFIL","pe_ratio":"21.92","dividend":"5.50\r\n","bonus":"5.50%\r","ltp":"515.00"}
+{"symbol":"MFILPO","pe_ratio":"0.00","dividend":"0.60\r\n","bonus":"0.60%\r","ltp":"217.00"}
+{"symbol":"MHNL","pe_ratio":"-50.44","dividend":"#\r\n   ","bonus":"","ltp":"227.00"}
+{"symbol":"MLBBL","pe_ratio":"36.92","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"1,800."}
+{"symbol":"MLBBLP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"MLBL","pe_ratio":"13.29","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"300.00"}
+{"symbol":"MLBLPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"109.00"}
+{"symbol":"MMFDB","pe_ratio":"38.67","dividend":"0.63\r\n","bonus":"0.63%\r","ltp":"1,458."}
+{"symbol":"MMFDBP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"525.00"}
+{"symbol":"MNBBL","pe_ratio":"15.71","dividend":"4.26\r\n","bonus":"4.26%\r","ltp":"402.00"}
+{"symbol":"MNBBLP","pe_ratio":"0.00","dividend":"1.63\r\n","bonus":"63%\r\n ","ltp":"182.00"}
+{"symbol":"MPFL","pe_ratio":"72.66","dividend":"10.00\r","bonus":"10.00%","ltp":"186.00"}
+{"symbol":"MPFLPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"118.00"}
+{"symbol":"MSLB","pe_ratio":"63.79","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"2,549."}
+{"symbol":"MSMBS","pe_ratio":"36.60","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"1,259."}
+{"symbol":"MSMBSP","pe_ratio":"","dividend":"","bonus":"","ltp":""}
+{"symbol":"NABBC","pe_ratio":"-45.10","dividend":"#\r\n   ","bonus":"","ltp":"580.00"}
+{"symbol":"NABIL","pe_ratio":"40.82","dividend":"1.76\r\n","bonus":"76%\r\n ","ltp":"1,221."}
+{"symbol":"NABILP","pe_ratio":"0.00","dividend":"6.00\r\n","bonus":"6.00%\r","ltp":"681.00"}
+{"symbol":"NADEP","pe_ratio":"21.01","dividend":"0.53\r\n","bonus":"0.53%\r","ltp":"1,039."}
+{"symbol":"NADEPP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"NAGRO","pe_ratio":"14.38","dividend":"#\r\n   ","bonus":"","ltp":"720.00"}
+{"symbol":"NBB","pe_ratio":"14.55","dividend":"2.42\r\n","bonus":"2.42%\r","ltp":"304.00"}
+{"symbol":"NBBD2085","pe_ratio":"","dividend":"","bonus":"","ltp":""}
+{"symbol":"NBBL","pe_ratio":"31.33","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"588.00"}
+{"symbol":"NBBLPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"370.00"}
+{"symbol":"NBBPO","pe_ratio":"0.00","dividend":"1.32\r\n","bonus":"32%\r\n ","ltp":"116.00"}
+{"symbol":"NBBU","pe_ratio":"0.00","dividend":"10.00\r","bonus":"10.00%","ltp":"64.00"}
+{"symbol":"NBF2","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"10.55"}
+{"symbol":"NBL","pe_ratio":"18.44","dividend":"4.00\r\n","bonus":"4.00%\r","ltp":"394.00"}
+{"symbol":"NBLD82","pe_ratio":"","dividend":"","bonus":"","ltp":""}
+{"symbol":"NCCB","pe_ratio":"26.28","dividend":"#\r\n   ","bonus":"0.54%\r","ltp":"313.00"}
+{"symbol":"NCCBPO","pe_ratio":"0.00","dividend":"0.84\r\n","bonus":"0.84%\r","ltp":"118.00"}
+{"symbol":"NCDB","pe_ratio":"12.95","dividend":"6.42\r\n","bonus":"6.42%\r","ltp":"145.00"}
+{"symbol":"NCDBPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"104.00"}
+{"symbol":"NEF","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"11.50"}
+{"symbol":"NFD","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"34.35"}
+{"symbol":"NFS","pe_ratio":"-115.63","dividend":"1.16\r\n","bonus":"16%\r\n ","ltp":"296.00"}
+{"symbol":"NFSPO","pe_ratio":"0.00","dividend":"1.16\r\n","bonus":"16%\r\n ","ltp":"101.00"}
+{"symbol":"NGPL","pe_ratio":"24.06","dividend":"0.53\r\n","bonus":"0.53%\r","ltp":"236.00"}
+{"symbol":"NHDL","pe_ratio":"15.44","dividend":"0.21\r\n","bonus":"0.21%\r","ltp":"255.00"}
+{"symbol":"NHPC","pe_ratio":"52.34","dividend":"#\r\n   ","bonus":"","ltp":"134.00"}
+{"symbol":"NIB","pe_ratio":"23.29","dividend":"#\r\n   ","bonus":"5.50%\r","ltp":"459.00"}
+{"symbol":"NIBD2082","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"1,070."}
+{"symbol":"NIBLPF","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"11.20"}
+{"symbol":"NIBPO","pe_ratio":"0.00","dividend":"1.74\r\n","bonus":"74%\r\n ","ltp":"392.00"}
+{"symbol":"NIBSF1","pe_ratio":"0.00","dividend":"12.00\r","bonus":"12.00%","ltp":"12.38"}
+{"symbol":"NICA","pe_ratio":"24.61","dividend":"1.00\r\n","bonus":"00%\r\n ","ltp":"877.00"}
+{"symbol":"NICAD 85/86","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"NICAD8182","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"1,005."}
+{"symbol":"NICAD8283","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"1,125."}
+{"symbol":"NICAP","pe_ratio":"0.00","dividend":"2.05\r\n","bonus":"2.05%\r","ltp":"335.00"}
+{"symbol":"NICBF","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"10.24"}
+{"symbol":"NICD83/84","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"1,053."}
+{"symbol":"NICGF","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"11.29"}
+{"symbol":"NICL","pe_ratio":"47.62","dividend":"2.89\r\n","bonus":"2.89%\r","ltp":"850.00"}
+{"symbol":"NICLBSL","pe_ratio":"35.16","dividend":"#\r\n   ","bonus":"","ltp":"759.00"}
+{"symbol":"NICLPO","pe_ratio":"0.00","dividend":"0.47\r\n","bonus":"0.47%\r","ltp":"292.00"}
+{"symbol":"NIDC","pe_ratio":"11.17","dividend":"#\r\n   ","bonus":"","ltp":"150.00"}
+{"symbol":"NIDCPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"NIL","pe_ratio":"42.39","dividend":"0.52\r\n","bonus":"0.52%\r","ltp":"1,699."}
+{"symbol":"NILPO","pe_ratio":"0.00","dividend":"0.79\r\n","bonus":"0.79%\r","ltp":"100.00"}
+{"symbol":"NKU","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"32.00"}
+{"symbol":"NLBBL","pe_ratio":"41.25","dividend":"0.42\r\n","bonus":"0.42%\r","ltp":"1,339."}
+{"symbol":"NLBBLP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"NLG","pe_ratio":"39.69","dividend":"0.37\r\n","bonus":"2.\r\n  ","ltp":"1,115."}
+{"symbol":"NLGPO","pe_ratio":"0.00","dividend":"3.94\r\n","bonus":"3.94%\r","ltp":"176.00"}
+{"symbol":"NLIC","pe_ratio":"191.04","dividend":"20.00\r","bonus":"20.00%","ltp":"2,281."}
+{"symbol":"NLICL","pe_ratio":"89.96","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"1,255."}
+{"symbol":"NLICLP","pe_ratio":"0.00","dividend":"8.00\r\n","bonus":"8.00%\r","ltp":"418.00"}
+{"symbol":"NLICP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"867.00"}
+{"symbol":"NLO","pe_ratio":"0.00","dividend":"10.00\r","bonus":"10.00%","ltp":"274.00"}
+{"symbol":"NMB","pe_ratio":"22.26","dividend":"3.20\r\n","bonus":"3.20%\r","ltp":"440.00"}
+{"symbol":"NMB50","pe_ratio":"0.00","dividend":"5.00\r\n","bonus":"5.00%\r","ltp":"11.47"}
+{"symbol":"NMBD2085","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"NMBHF1","pe_ratio":"0.00","dividend":"8.00\r\n","bonus":"8.00%\r","ltp":"10.55"}
+{"symbol":"NMBMF","pe_ratio":"42.72","dividend":"1.00\r\n","bonus":"00%\r\n ","ltp":"1,220."}
+{"symbol":"NMBMFP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"592.00"}
+{"symbol":"NMBPO","pe_ratio":"0.00","dividend":"0.42\r\n","bonus":"0.42%\r","ltp":"250.00"}
+{"symbol":"NMFBS","pe_ratio":"30.87","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"3,137."}
+{"symbol":"NMFBSP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"100.00"}
+{"symbol":"NRIC","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"1,569."}
+{"symbol":"NRN","pe_ratio":"204.06","dividend":"0.15\r\n","bonus":"0.15%\r","ltp":"402.00"}
+{"symbol":"NSEWA","pe_ratio":"29.73","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"831.00"}
+{"symbol":"NSEWAP","pe_ratio":"","dividend":"","bonus":"","ltp":""}
+{"symbol":"NSM","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"174.00"}
+{"symbol":"NSMPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"182.00"}
+{"symbol":"NTC","pe_ratio":"57.11","dividend":"45.00\r","bonus":"45.00%","ltp":"1,349."}
+{"symbol":"NTL","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"56.00"}
+{"symbol":"NUBL","pe_ratio":"189.91","dividend":"0.68\r\n","bonus":"0.68%\r","ltp":"1,449."}
+{"symbol":"NUBLPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"600.00"}
+{"symbol":"NVG","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"NWC","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"95.00"}
+{"symbol":"ODBL","pe_ratio":"8.26","dividend":"#\r\n   ","bonus":"","ltp":"197.00"}
+{"symbol":"ODBLPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"114.00"}
+{"symbol":"OHL","pe_ratio":"-21.00","dividend":"10.79\r","bonus":"10.79%","ltp":"522.00"}
+{"symbol":"PBLD84","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"1,045."}
+{"symbol":"PBLD86","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"PCBL","pe_ratio":"20.40","dividend":"1.21\r\n","bonus":"21%\r\n ","ltp":"460.00"}
+{"symbol":"PCBLP","pe_ratio":"0.00","dividend":"0.95\r\n","bonus":"0.95%\r","ltp":"169.00"}
+{"symbol":"PDBLPO","pe_ratio":"0.00","dividend":"6.00\r\n","bonus":"6.00%\r","ltp":"124.00"}
+{"symbol":"PFL","pe_ratio":"13.92","dividend":"#\r\n   ","bonus":"0.26%\r","ltp":"280.00"}
+{"symbol":"PFLPO","pe_ratio":"0.00","dividend":"2.05\r\n","bonus":"2.05%\r","ltp":"126.00"}
+{"symbol":"PIC","pe_ratio":"35.35","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"1,230."}
+{"symbol":"PICL","pe_ratio":"55.97","dividend":"1.05\r\n","bonus":"05%\r\n ","ltp":"802.00"}
+{"symbol":"PICLPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"263.00"}
+{"symbol":"PICPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"426.00"}
+{"symbol":"PLI","pe_ratio":"106.44","dividend":"#\r\n   ","bonus":"","ltp":"860.00"}
+{"symbol":"PLIC","pe_ratio":"56.43","dividend":"8.00\r\n","bonus":"8.00%\r","ltp":"904.00"}
+{"symbol":"PLICPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"353.00"}
+{"symbol":"PMHPL","pe_ratio":"-28.99","dividend":"#\r\n   ","bonus":"","ltp":"149.00"}
+{"symbol":"PPCL","pe_ratio":"13.89","dividend":"#\r\n   ","bonus":"","ltp":"259.00"}
+{"symbol":"PRFLPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"115.00"}
+{"symbol":"PRIN","pe_ratio":"58.71","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"944.00"}
+{"symbol":"PRINPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"551.00"}
+{"symbol":"PROFL","pe_ratio":"22.70","dividend":"#\r\n   ","bonus":"","ltp":"160.00"}
+{"symbol":"PROFLP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"101.00"}
+{"symbol":"PRVU","pe_ratio":"17.71","dividend":"0.53\r\n","bonus":"0.53%\r","ltp":"474.00"}
+{"symbol":"PRVUPO","pe_ratio":"0.00","dividend":"5.00\r\n","bonus":"5.00%\r","ltp":"200.00"}
+{"symbol":"PSDBLP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"PURBL","pe_ratio":"12.35","dividend":"6.37\r\n","bonus":"6.37%\r","ltp":"188.00"}
+{"symbol":"PURBLP","pe_ratio":"0.00","dividend":"1.23\r\n","bonus":"23%\r\n ","ltp":"210.48"}
+{"symbol":"RADHI","pe_ratio":"16.46","dividend":"5.00\r\n","bonus":"5.00%\r","ltp":"338.00"}
+{"symbol":"RBCL","pe_ratio":"161.75","dividend":"6.00\r\n","bonus":"6.00%\r","ltp":"16,670"}
+{"symbol":"RBCLPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"15,500"}
+{"symbol":"RHPC","pe_ratio":"25.83","dividend":"0.26\r\n","bonus":"0.26%\r","ltp":"171.00"}
+{"symbol":"RHPL","pe_ratio":"18,100.00","dividend":"#\r\n   ","bonus":"","ltp":"362.00"}
+{"symbol":"RJM","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"100.00"}
+{"symbol":"RLFL","pe_ratio":"24.02","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"234.00"}
+{"symbol":"RLFLPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"109.00"}
+{"symbol":"RLI","pe_ratio":"131.76","dividend":"#\r\n   ","bonus":"","ltp":"726.00"}
+{"symbol":"RMBFPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"223.00"}
+{"symbol":"RMDC","pe_ratio":"50.25","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"1,115."}
+{"symbol":"RMDCPO","pe_ratio":"0.00","dividend":"10.00\r","bonus":"10.00%","ltp":"327.00"}
+{"symbol":"RRHP","pe_ratio":"15.41","dividend":"#\r\n   ","bonus":"","ltp":"285.00"}
+{"symbol":"RSDC","pe_ratio":"57.38","dividend":"3.63\r\n","bonus":"3.63%\r","ltp":"820.00"}
+{"symbol":"RSDCP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"330.00"}
+{"symbol":"SABSL","pe_ratio":"41.50","dividend":"0.68\r\n","bonus":"0.68%\r","ltp":"1,355."}
+{"symbol":"SADBL","pe_ratio":"17.00","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"215.00"}
+{"symbol":"SADBLP","pe_ratio":"0.00","dividend":"6.30\r\n","bonus":"6.30%\r","ltp":"104.00"}
+{"symbol":"SAEF","pe_ratio":"0.00","dividend":"7.00\r\n","bonus":"7.00%\r","ltp":"12.70"}
+{"symbol":"SAND2085","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"1,055."}
+{"symbol":"SANIMA","pe_ratio":"16.67","dividend":"3.60\r\n","bonus":"3.60%\r","ltp":"366.00"}
+{"symbol":"SAPDBL","pe_ratio":"89.12","dividend":"5.04\r\n","bonus":"5.04%\r","ltp":"172.00"}
+{"symbol":"SAPDBLP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"104.00"}
+{"symbol":"SBBLJ","pe_ratio":"8.16","dividend":"18.72\r","bonus":"18.72%","ltp":"197.00"}
+{"symbol":"SBBLJP","pe_ratio":"0.00","dividend":"1.47\r\n","bonus":"47%\r\n ","ltp":"117.00"}
+{"symbol":"SBBLPO","pe_ratio":"0.00","dividend":"1.05\r\n","bonus":"05%\r\n ","ltp":"180.00"}
+{"symbol":"SBI","pe_ratio":"37.39","dividend":"3.47\r\n","bonus":"3.47%\r","ltp":"430.00"}
+{"symbol":"SBIBD86","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"1,045."}
+{"symbol":"SBIPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"1,492."}
+{"symbol":"SBL","pe_ratio":"23.27","dividend":"3.00\r\n","bonus":"3.00%\r","ltp":"390.00"}
+{"symbol":"SBLD2082","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"1,062."}
+{"symbol":"SBLD83","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"SBLD84","pe_ratio":"","dividend":"","bonus":"","ltp":""}
+{"symbol":"SBLPO","pe_ratio":"0.00","dividend":"1.05\r\n","bonus":"05%\r\n ","ltp":"190.00"}
+{"symbol":"SBPP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"50.00"}
+{"symbol":"SCB","pe_ratio":"36.63","dividend":"4.84\r\n","bonus":"4.84%\r","ltp":"622.00"}
+{"symbol":"SCBPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"SDESI","pe_ratio":"9.18","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"800.00"}
+{"symbol":"SDLBSL","pe_ratio":"52.54","dividend":"0.95\r\n","bonus":"0.95%\r","ltp":"1,435."}
+{"symbol":"SEF","pe_ratio":"0.00","dividend":"11.00\r","bonus":"100%\r\n","ltp":"11.21"}
+{"symbol":"SEOS","pe_ratio":"0.00","dividend":"12.00\r","bonus":"12.00%","ltp":"10.85"}
+{"symbol":"SFC","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"230.00"}
+{"symbol":"SFCL","pe_ratio":"21.28","dividend":"#\r\n   ","bonus":"","ltp":"176.00"}
+{"symbol":"SFCLP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"100.00"}
+{"symbol":"SFCPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"105.00"}
+{"symbol":"SFFIL","pe_ratio":"38.25","dividend":"0.79\r\n","bonus":"0.79%\r","ltp":"210.00"}
+{"symbol":"SFFILP","pe_ratio":"0.00","dividend":"3.15\r\n","bonus":"3.15%\r","ltp":"138.00"}
+{"symbol":"SFMF","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"10.80"}
+{"symbol":"SGI","pe_ratio":"118.35","dividend":"#\r\n   ","bonus":"","ltp":"703.00"}
+{"symbol":"SHBL","pe_ratio":"19.68","dividend":"1.21\r\n","bonus":"21%\r\n ","ltp":"460.00"}
+{"symbol":"SHBLPO","pe_ratio":"","dividend":"","bonus":"","ltp":""}
+{"symbol":"SHINE","pe_ratio":"17.89","dividend":"0.93\r\n","bonus":"0.93%\r","ltp":"274.00"}
+{"symbol":"SHINEP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"146.00"}
+{"symbol":"SHIVM","pe_ratio":"57.61","dividend":"24.21\r","bonus":"24.21%","ltp":"1,544."}
+{"symbol":"SHL","pe_ratio":"-76.19","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"208.00"}
+{"symbol":"SHPC","pe_ratio":"15.21","dividend":"5.00\r\n","bonus":"5.00%\r","ltp":"349.00"}
+{"symbol":"SIC","pe_ratio":"42.67","dividend":"1.16\r\n","bonus":"16%\r\n ","ltp":"1,511."}
+{"symbol":"SICL","pe_ratio":"75.23","dividend":"1.46\r\n","bonus":"46%\r\n ","ltp":"2,643."}
+{"symbol":"SICLPO","pe_ratio":"0.00","dividend":"1.26\r\n","bonus":"26%\r\n ","ltp":"1,009."}
+{"symbol":"SICPO","pe_ratio":"0.00","dividend":"1.25\r\n","bonus":"25%\r\n ","ltp":"636.00"}
+{"symbol":"SIFC","pe_ratio":"17.76","dividend":"#\r\n   ","bonus":"3.16%\r","ltp":"236.00"}
+{"symbol":"SIFCPO","pe_ratio":"0.00","dividend":"0.61\r\n","bonus":"0.61%\r","ltp":"120.00"}
+{"symbol":"SIGS2","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"11.28"}
+{"symbol":"SIL","pe_ratio":"44.07","dividend":"1.05\r\n","bonus":"05%\r\n ","ltp":"1,207."}
+{"symbol":"SILPO","pe_ratio":"0.00","dividend":"16.31\r","bonus":"16.31%","ltp":"595.00"}
+{"symbol":"SINDU","pe_ratio":"15.79","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"192.00"}
+{"symbol":"SINDUP","pe_ratio":"0.00","dividend":"0.66\r\n","bonus":"0.66%\r","ltp":"111.00"}
+{"symbol":"SJCL","pe_ratio":"-367.07","dividend":"#\r\n   ","bonus":"","ltp":"301.00"}
+{"symbol":"SKBBL","pe_ratio":"31.91","dividend":"1.32\r\n","bonus":"32%\r\n ","ltp":"1,620."}
+{"symbol":"SKBBLP","pe_ratio":"0.00","dividend":"1.36\r\n","bonus":"36%\r\n ","ltp":"900.00"}
+{"symbol":"SLBBL","pe_ratio":"38.60","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"1,396."}
+{"symbol":"SLBBLP","pe_ratio":"0.00","dividend":"1.80\r\n","bonus":"80%\r\n ","ltp":"642.00"}
+{"symbol":"SLBS","pe_ratio":"46.16","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"1,978."}
+{"symbol":"SLBSL","pe_ratio":"179.60","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"1,250."}
+{"symbol":"SLBSP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"531.00"}
+{"symbol":"SLICL","pe_ratio":"48.90","dividend":"5.53\r\n","bonus":"5.53%\r","ltp":"870.00"}
+{"symbol":"SLICLP","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"273.00"}
+{"symbol":"SMATA","pe_ratio":"24.94","dividend":"#\r\n   ","bonus":"6.32%\r","ltp":"660.00"}
+{"symbol":"SMATAP","pe_ratio":"","dividend":"","bonus":"","ltp":""}
+{"symbol":"SMB","pe_ratio":"40.06","dividend":"0.53\r\n","bonus":"0.53%\r","ltp":"1,919."}
+{"symbol":"SMBPO","pe_ratio":"","dividend":"","bonus":"","ltp":""}
+{"symbol":"SMFBS","pe_ratio":"34.78","dividend":"1.05\r\n","bonus":"05%\r\n ","ltp":"2,120."}
+{"symbol":"SMFDB","pe_ratio":"58.19","dividend":"1.24\r\n","bonus":"24%\r\n ","ltp":"1,254."}
+{"symbol":"SMFDBP","pe_ratio":"0.00","dividend":"2.19\r\n","bonus":"2.19%\r","ltp":"380.00"}
+{"symbol":"SNLB","pe_ratio":"35.52","dividend":"#\r\n   ","bonus":"","ltp":"1,545."}
+{"symbol":"SNLBP","pe_ratio":"","dividend":"","bonus":"","ltp":""}
+{"symbol":"SPARS","pe_ratio":"41.12","dividend":"#\r\n   ","bonus":"03%\r\n ","ltp":"972.00"}
+{"symbol":"SPDL","pe_ratio":"15.57","dividend":"0.25\r\n","bonus":"0.25%\r","ltp":"273.00"}
+{"symbol":"SRBL","pe_ratio":"15.94","dividend":"2.48\r\n","bonus":"2.48%\r","ltp":"319.00"}
+{"symbol":"SRBLD83","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"1,052."}
+{"symbol":"SRBLPO","pe_ratio":"0.00","dividend":"1.13\r\n","bonus":"13%\r\n ","ltp":"162.00"}
+{"symbol":"SRD80","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"1,025."}
+{"symbol":"SRS","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"338.00"}
+{"symbol":"SSHL","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"160.00"}
+{"symbol":"STC","pe_ratio":"0.00","dividend":"10.00\r","bonus":"10.00%","ltp":"7,998."}
+{"symbol":"SWBBL","pe_ratio":"41.36","dividend":"1.00\r\n","bonus":"00%\r\n ","ltp":"1,926."}
+{"symbol":"SWBBLP","pe_ratio":"0.00","dividend":"10.63\r","bonus":"10.63%","ltp":"930.00"}
+{"symbol":"SYFL","pe_ratio":"13.16","dividend":"#\r\n   ","bonus":"","ltp":"145.00"}
+{"symbol":"SYFLPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"100.00"}
+{"symbol":"TMDBL","pe_ratio":"17.27","dividend":"0.63\r\n","bonus":"0.63%\r","ltp":"197.00"}
+{"symbol":"TMDBLP","pe_ratio":"0.00","dividend":"0.94\r\n","bonus":"0.94%\r","ltp":"100.00"}
+{"symbol":"TRH","pe_ratio":"-20.12","dividend":"10.00\r","bonus":"10.00%","ltp":"337.00"}
+{"symbol":"TRHPR","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"0.00"}
+{"symbol":"UFL","pe_ratio":"71.73","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"335.00"}
+{"symbol":"UFLPO","pe_ratio":"0.00","dividend":"0.79\r\n","bonus":"0.79%\r","ltp":"107.00"}
+{"symbol":"UIC","pe_ratio":"122.62","dividend":"#\r\n   ","bonus":"","ltp":"656.00"}
+{"symbol":"UICPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"237.00"}
+{"symbol":"UMHL","pe_ratio":"60.07","dividend":"5.26\r\n","bonus":"5.26%\r","ltp":"164.00"}
+{"symbol":"UMRH","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"233.00"}
+{"symbol":"UNHPL","pe_ratio":"29.64","dividend":"#\r\n   ","bonus":"","ltp":"115.00"}
+{"symbol":"UNL","pe_ratio":"68.34","dividend":"100.00","bonus":"100.00","ltp":"19,500"}
+{"symbol":"UPCL","pe_ratio":"65.55","dividend":"#\r\n   ","bonus":"","ltp":"137.00"}
+{"symbol":"UPPER","pe_ratio":"-795.00","dividend":"#\r\n   ","bonus":"","ltp":"477.00"}
+{"symbol":"USLB","pe_ratio":"34.03","dividend":"#\r\n   ","bonus":"0.00%\r","ltp":"2,150."}
+{"symbol":"USLBP","pe_ratio":"","dividend":"","bonus":"","ltp":""}
+{"symbol":"VLBS","pe_ratio":"26.89","dividend":"1.00\r\n","bonus":"00%\r\n ","ltp":"1,471."}
+{"symbol":"VLBSPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"571.00"}
+{"symbol":"WOMI","pe_ratio":"31.07","dividend":"1.32\r\n","bonus":"32%\r\n ","ltp":"914.00"}
+{"symbol":"WOMIPO","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"497.00"}
+{"symbol":"YHL","pe_ratio":"0.00","dividend":"#\r\n   ","bonus":"","ltp":"600.00"}

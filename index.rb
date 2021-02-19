@@ -2,7 +2,7 @@ require 'open-uri'
 require 'nokogiri'
 require 'json'
 
-sagar = {umhl: 24, sjcl: 20, sgi: 10, rhpl: 40, hdhpc: 50, gic: 10, name: 'Sagar'}
+sagar = {umhl: 24, sjcl: 20, sgi: 10, rhpl: 40, hdhpc: 50, gic: 10, pli: 10, name: 'Sagar'}
 nabin = {sjcl: 40, rhpl: 70, name: 'Nabin'}
 
 def find_share_value(my_shares)
