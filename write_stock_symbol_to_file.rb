@@ -9,7 +9,7 @@ def write_stock_symbol_to_file
 	form_id = "news_info-filter"
 	select_id = 'stock-symbol'
 
-	html = open(url)
+	html = URI.open(url)
 	doc = Nokogiri::HTML(html)
 
 	form = doc.at("form##{form_id}")
